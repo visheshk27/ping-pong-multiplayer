@@ -1,0 +1,10 @@
+:root{
+    --white-color: #ffffff;
+    --black-color: #000000;
+}
+:root{
+    --century-gothic: "Century Gothic", Century, Arial, sans-serif;
+    color: #445360;
+}
+
+body,html{height:100%;overflow:hidden;width:100%}*,body,html{margin:0;padding:0}*{box-sizing:border-box;color:var(--white-color);font-family:var(--century-gothic);font-size:70px}body{align-items:center;background:var(--black-color);display:flex;flex-direction:column;justify-content:space-around}#canvas{border:1px solid var(--white-color)}
