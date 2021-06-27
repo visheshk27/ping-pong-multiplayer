@@ -5,3 +5,4 @@ module.exports = {
 	dist : path.resolve(__dirname, '../dist'),
 	root : path.resolve(__dirname, '../'),
 };
+ 
